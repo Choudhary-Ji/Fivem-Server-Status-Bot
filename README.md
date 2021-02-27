@@ -14,9 +14,12 @@ https://github.com/Choudhary-Ji/Connect-Queue-For-ESX
 
 ## Setup
 
-1. Add the included fivemqueue to your server resources
-2. Start the fivemqueue in your server.cfg
-3. Set enviroment variables as described below
+1. Add the included connectqueue to your server resources
+2. Add the included Uptime to your server resources
+3. Start the connectqueue in your server.cfg
+3. Start the Uptime in your server.cfg
+5. Give Your Bot Token In .ENV
+6. Setup Your Config.json
 
 ```
 URL_SERVER - base url for fiveM server e.g. http://127.0.0.1:3501 (don't end with /)
