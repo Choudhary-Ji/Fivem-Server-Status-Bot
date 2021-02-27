@@ -32,7 +32,7 @@ LOG_CHANNEL - channel to log status changes
 ```
 ## Running
 1. `Run installde.cmd`
-2. `run start.cmd`
+2. `Run start.cmd`
 
 
   
