@@ -37,6 +37,8 @@ LOG_CHANNEL - channel to log status changes
 1. `Run installde.cmd`
 2. `Run start.cmd`
 
-
+## SUPPORT
+- SO IF YOU NEED ANY SUPPORT JOIN [DISCORD](https://discord.gg/Nq3yr2B66Z)
+- DM ME • Çhå¢hå ÇhðµÐhår¥ •#5555
   
 
