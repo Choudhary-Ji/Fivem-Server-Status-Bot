@@ -28,6 +28,9 @@ FiveM Server Status Discord Bot
 1. You Can Use Heroku
 2. You Can Run It On VPS Also
  
+## Setup In Config.json
+
+
 ```
 URL_SERVER - base url for fiveM server e.g. http://127.0.0.1:3501 (don't end with /)
 LOG_LEVEL - Int of enum 0-4 specifying level of logs to display with 4 as no logs
@@ -45,7 +48,6 @@ LOG_CHANNEL:"WHERE BOT WILL SEND LOGS MAY IT NOT WORK
 2. `Run start.cmd`
 
 ## SUPPORT
-- SO IF YOU NEED ANY SUPPORT JOIN [DISCORD](https://discord.gg/Nq3yr2B66Z)
-- DM ME • Çhå¢hå ÇhðµÐhår¥ •#5555
+- DM ME ÇhðµÐhår¥ Jï#6179
   
 
