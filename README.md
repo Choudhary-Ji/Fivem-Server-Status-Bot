@@ -22,17 +22,23 @@ FiveM Server Status Discord Bot
 6. Setup Your Config.json
 7. If You Need To Show Version On Bot You Need To `sets Version "lavda_0.1.2"
 
+
+## Hosting
+
+1. You Can Use Heroku
+2. You Can Run It On VPS Also
+ 
 ```
 URL_SERVER - base url for fiveM server e.g. http://127.0.0.1:3501 (don't end with /)
 LOG_LEVEL - Int of enum 0-4 specifying level of logs to display with 4 as no logs
-CHANNEL_ID - channel id for updates to be pushed to
-MESSAGE_ID - message id of previous update to edit (not required)
-SUGGESTION_CHANNEL - channel to create suggestion embeds in
-BUG_CHANNEL - channel to recieve bug reports
-BUG_LOG_CHANNEL - channel to log bug reports
-REPORT_CHANNEL: channel to send reports
-REPORT_LOG_CHANNEL: channel to recieve reports
-LOG_CHANNEL - channel to log status changes
+CHANNEL_ID:DISPLAY SERVER STAUS MESSAGE,
+MESSAGE_ID:FIRST SEND MESSAGE THEN COPY ITS ID AND PASTE HERE,
+SUGGESTION_CHANNEL:DISPLAY SERVER SUGGESTION,
+BUG_CHANNEL:"DISPLAY SERVER BUGS,
+BUG_LOG_CHANNEL:DISPLAY SERVER BUGS LOHS TO COME,
+REPORT_CHANNEL:DISPLAY SERVER REPORT,
+REPORT_LOG_CHANNEL:DISPLAY SERVER REPORT LOGS,
+LOG_CHANNEL:"WHERE BOT WILL SEND LOGS MAY IT NOT WORK
 ```
 ## Running
 1. `Run installde.cmd`
