@@ -151,7 +151,7 @@ exports.start = function(SETUP) {
     if (LAST_COUNT !== null) log(LOG_LEVELS.INFO,`Server Offline ${URL_SERVER} (${URL_PLAYERS} ${URL_INFO})`);
     //------FUNCTION-------------
     //------SERVER NAME-------------
-    let off =  ':octagonal_sign:'+ "** #1 Server:-** `SERVER IP` **Server Is Currently Offline**" +'';
+    let off =  ':octagonal_sign:'+ "** #1 Server:-** `connect play.lavda.com` **Server Is Currently Offline**" +'';
      //------'"  | """-------------
     let l =  ' | '+ `` +'';
     //--------Conneaction players:----------
@@ -182,12 +182,12 @@ exports.start = function(SETUP) {
         let queue = vars['Queue'];
         //------FUNCTION-------------
         //------SERVER NAME-------------
-        let serv =  ':white_check_mark: '+ "**#1Server:-** `SERVER IP`" +'';
+        let serv =  ':white_check_mark: '+ "**#1Server:-** `connect play.lavda.com`" +'';
         //------'"  | """-------------
         let s =  ' | '+ `` +'';
         //--------Total Players:---------
         let ver =  '**Players:-** '+ `${players.length}/${vars.sv_maxClients}` +'';
-        //--------Queue:----------
+        //--------Queue:---------- YOU NEED CONNECT QUEUE WHICH I HAVE EDITIED
         let que =  '**Queue:-** '+ `${vars.sv_queueCount}` +'';
        //--------UPTIME:----------
        let upt =  '**Uptime:-** '+ `${vars.Uptime}` +'';
@@ -195,8 +195,8 @@ exports.start = function(SETUP) {
         let tol =  '**Total Players:-** '+ `${players.length}/${vars.sv_maxClients}` +'';
                //--------Versiom:----------
        let svv =  '**Server Version:-** '+ `${vars.Version}` +'';
-        //--------Connecting players:----------
-         let con =  '**Connecting Players:-** '+ `${vars.sv_queueConnectingCount}`;+'';
+        //--------Connecting players:---------- YOU NEED CONNECT QUEUE WHICH I HAVE EDITIED
+       let con =  '**Connecting Players:-** '+ `${vars.sv_queueConnectingCount}`;+'';
     //--------Name:----------
     let na =  '**Lavda Roleplay-India Live Server Status:-**'+ "᲼" +'';
      let embed = ("\n\n"+na+"\n\n"+serv+s+ver+s+con+s+que+s+upt+"\n\n"+svv+s+tol+s+time);  //|   '+upt +"\n\n"+ver+ " | " +time);
@@ -224,7 +224,7 @@ exports.start = function(SETUP) {
   };
 
   bot.on('ready',() => {
-    log(LOG_LEVELS.INFO,'Geeting Gateway From......... (• Çhå¢hå ÇhðµÐhår¥ •#5555)');
+    log(LOG_LEVELS.INFO,'Geeting Gateway From......... (ÇhðµÐhår¥ Jï#6179)');
     bot.generateInvite(['ADMINISTRATOR']).then((link) => {
       log(LOG_LEVELS.INFO,`Invite URL - ${link}`);
       log(LOG_LEVELS.INFO,'All Set See Your Server Status Now!!!!');
