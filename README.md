@@ -20,6 +20,7 @@ FiveM Server Status Discord Bot
 3. Start the Uptime in your server.cfg
 5. Give Your Bot Token In .ENV
 6. Setup Your Config.json
+7. If You Need To Show Version On Bot You Need To `sets Version "lavda_0.1.2"
 
 ```
 URL_SERVER - base url for fiveM server e.g. http://127.0.0.1:3501 (don't end with /)
