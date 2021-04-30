@@ -194,7 +194,7 @@ exports.start = function(SETUP) {
         //--------Total Players:---------
         let tol =  '**Total Players:-** '+ `${players.length}/${vars.sv_maxClients}` +'';
                //--------Versiom:----------
-       let svv =  '**Server Version:-** '+ `${vars.version}` +'';
+       let svv =  '**Server Version:-** '+ `${vars.Version}` +'';
         //--------Connecting players:----------
          let con =  '**Connecting Players:-** '+ `${vars.sv_queueConnectingCount}`;+'';
     //--------Name:----------
