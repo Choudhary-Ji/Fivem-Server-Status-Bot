@@ -23,8 +23,8 @@ FiveM Server Status Discord Bot
 7. If You Need To Show Version On Bot You Need To `sets Version "lavda_0.1.2"
 
 
-https://cdn.discordapp.com/attachments/837303315086966854/837609556951040011/unknown.png
 
+![image](https://cdn.discordapp.com/attachments/837303315086966854/837609556951040011/unknown.png)
 ## Hosting
 
 1. You Can Use Heroku
