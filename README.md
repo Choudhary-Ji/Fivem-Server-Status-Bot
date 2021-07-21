@@ -50,6 +50,6 @@ LOG_CHANNEL:"WHERE BOT WILL SEND LOGS MAY IT NOT WORK
 2. `Run start.cmd`
 
 ## SUPPORT
-- DM ME ÇhðµÐhår¥ Jï#6179
+- DM ME Choudhary Ji#1889
   
 
